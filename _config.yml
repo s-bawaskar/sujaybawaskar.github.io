@@ -16,7 +16,7 @@ timezone: Europe/Berlin
 
 title: Sujay Bawaskar # the main title
 
-tagline: My tech journal # it will display as the sub-title
+tagline: My journal # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   My technical writing blog.
@@ -27,7 +27,7 @@ url: "https://sujay-bawaskar.github.io/"
 
 github:
   username: sujay-bawaskar # change to your github username
-
+#
 twitter:
   username: sujaybawaskar # change to your twitter username
 
